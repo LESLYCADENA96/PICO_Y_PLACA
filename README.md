@@ -1,0 +1,2 @@
+# PICO_Y_PLACA
+Write a "Pico y Placa" predictor. The inputs should be a license plate number (the full number, not the last digit), a date (as a String), and a time, and the program will return whether or not that car can be on the road  The script main_pp-test.py has four different license to prove the funcionality of the predictor.  The script main_pp.py let you to introduce any license , date and hour dynamically to know if your vehicle could be on the road.
